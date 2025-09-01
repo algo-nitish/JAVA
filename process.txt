@@ -1,0 +1,14 @@
+git add .
+git commit -m "your message"
+git push
+
+
+
+
+git remote set-url origin https://NitishChauhan1@github.com/NitishChauhan1/JAVA.git
+
+
+
+git push -u origin main
+
+
